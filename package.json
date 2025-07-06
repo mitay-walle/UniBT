@@ -1,0 +1,15 @@
+{
+    "name": "com.github.yoshidan.unibt",
+    "displayName": "UniBT",
+    "version": "1.0.1",
+    "unity": "2019.1",
+    "description": "Behavior tree designer.",
+    "dependencies": {},
+	"samples": [
+		{
+            "displayName": "Examples",
+            "description": "Contains scenewith enemies chasing ang attacking target",
+            "path": "Samples~"
+        }
+	]
+}
